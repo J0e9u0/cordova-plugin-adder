@@ -1,4 +1,4 @@
-package cordova.plugin.adder;
+package org.apache.cordova.adder;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
