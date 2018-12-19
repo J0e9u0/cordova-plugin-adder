@@ -1,0 +1,1 @@
+# cordova-plugin-adder
