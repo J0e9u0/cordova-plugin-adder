@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-adder",
+  "version": "1.0.0",
+  "description": "test cordova plugin",
+  "cordova": {
+    "id": "cordova-plugin-adder",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Joe",
+  "license": "Apache 2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxBalance/cordova-plugin-mjtest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MaxBalance/cordova-plugin-mjtest/issues"
+  },
+  "homepage": "https://github.com/MaxBalance/cordova-plugin-mjtest#readme"
+}
