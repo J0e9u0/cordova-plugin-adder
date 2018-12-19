@@ -16,10 +16,10 @@
   "license": "Apache 2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MaxBalance/cordova-plugin-mjtest.git"
+    "url": "git+https://github.com/J0e9u0/cordova-plugin-adder"
   },
   "bugs": {
-    "url": "https://github.com/MaxBalance/cordova-plugin-mjtest/issues"
+    "url": "https://github.com/J0e9u0/cordova-plugin-adder/issues"
   },
-  "homepage": "https://github.com/MaxBalance/cordova-plugin-mjtest#readme"
+  "homepage": "https://github.com/J0e9u0/cordova-plugin-adder#readme"
 }
