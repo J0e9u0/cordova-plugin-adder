@@ -1,6 +1,6 @@
 {
     "name": "cordova-plugin-adder",
-    "version": "1.1.7",
+    "version": "1.1.8",
     "description": "test cordova plugin",
     "cordova": {
         "id": "cordova-plugin-adder",
