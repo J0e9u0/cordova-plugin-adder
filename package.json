@@ -1,29 +1,29 @@
 {
-  "name": "cordova-plugin-adder",
-  "version": "1.1.4",
-  "description": "test cordova plugin",
-  "cordova": {
-    "id": "cordova-plugin-adder",
-    "platforms": [
-      "android",
-      "ios"
-    ]
-  },
-  "keywords": [
-    "ecosystem:cordova",
-    "test",
-    "android",
-    "add",
-    "integer"
-  ],
-  "author": "Joe",
-  "license": "Apache 2.0",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/J0e9u0/cordova-plugin-adder"
-  },
-  "bugs": {
-    "url": "https://github.com/J0e9u0/cordova-plugin-adder/issues"
-  },
-  "homepage": "https://github.com/J0e9u0/cordova-plugin-adder#readme"
+    "name": "cordova-plugin-adder",
+    "version": "1.1.5",
+    "description": "test cordova plugin",
+    "cordova": {
+        "id": "cordova-plugin-adder",
+        "platforms": [
+            "android",
+            "ios"
+        ]
+    },
+    "keywords": [
+        "ecosystem:cordova",
+        "test",
+        "android",
+        "add",
+        "integer"
+    ],
+    "author": "Joe",
+    "license": "Apache 2.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/J0e9u0/cordova-plugin-adder"
+    },
+    "bugs": {
+        "url": "https://github.com/J0e9u0/cordova-plugin-adder/issues"
+    },
+    "homepage": "https://github.com/J0e9u0/cordova-plugin-adder#readme"
 }

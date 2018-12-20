@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<plugin id="cordova-plugin-adder" version="1.0.0" 
+<plugin id="cordova-plugin-adder" version="1.1.5" 
   xmlns="http://apache.org/cordova/ns/plugins/1.0" 
   xmlns:android="http://schemas.android.com/apk/res/android">
   <name>Adder</name>
@@ -9,7 +9,7 @@
   <platform name="android">
     <config-file parent="/*" target="res/xml/config.xml">
       <feature name="Adder">
-        <param name="android-package" value="cordova.plugin.adder.Adder" />
+        <param name="android-package" value="org.apache.cordova.adder.Adder" />
       </feature>
     </config-file>
     <config-file parent="/*" target="AndroidManifest.xml"></config-file>
