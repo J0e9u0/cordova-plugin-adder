@@ -23,3 +23,9 @@ setTimeout(function(){
 ```
 
 in js/index.js
+
+### use add function
+
+```js
+cordova.plugins.Adder.add([1,2],function(msg){console.log(msg);},null);
+```
